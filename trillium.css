@@ -2,11 +2,17 @@ body { 	background-color: #E2FFFF;
   color: #15495E
   font-family: Arial, Verdana, sans-serif;
 }
- h1 { 	
-
+ h1 { 	background-color: #237B7B;
+  color: #E2FFFF
+  line-height: 200%;
+  font-family: Georgia, "Times New Roman", serif;
+  text-indent: 1em;
+  text-shadow: 3px 3px 5px #000000;
 }
-h2 { 	
-
+h2 { 	background-color: #B0E6E6;
+  color: #237B7B;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
  }
 nav { 	
 
